@@ -1,0 +1,14 @@
+[general]
+name=Routes and Zones
+qgisMinimumVersion=2.8
+description=Plugin RaZ is a wrapper for standard network analysis library in QGIS. Allows you to calculate a routes and zone of transport accessibility from one set of points to another set of points.
+description[ru]=Плагин RaZ использует стандартную библиотеку сетевого анализа QGIS. Рассчитывает маршруты от одного множества точек до другого, не превышающие заданное значение. Рассчитывает зоны транспортной доступности от множества точек по заданному растоянию.
+about=Sample QGIS project file is in plugin subdirectory "sample-data". Use interface illustration file is "sample-data/illustration/sample use.png".
+about[ru]=Пример проекта QGIS находится в подкаталоге плагина "sample-data". Иллюстрация интерфейса работы "sample-data/illustration/sample use russian.png".
+version=0.0.1
+icon=icons/zone.png
+experimental=True
+tags=vector,directions,routing
+category=Vector
+author=Dmitriy Biryuchkov
+email=biryuchkov@gmail.com

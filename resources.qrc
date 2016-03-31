@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>icons/route.png</file>
+    <file>icons/zone.png</file>
+    <file>icons/find_search.png</file>
+    <file>icons/start.png</file>
+    <file>icons/stop.png</file>
+    <file>icons/exit.png</file>
+  </qresource>
+</RCC>
